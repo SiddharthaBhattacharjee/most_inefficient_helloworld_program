@@ -5,7 +5,7 @@ It prints hello world. The code that every coder has written at least once in th
 ## How we built it
 This app was built using python and a bunch of dumb ideas.
 ## Challenges we ran into
-I accidentally made it a bit efficient at first : )
+I accidentally made it a bit less inefficient at first : )
 ## Accomplishments that we're proud of
 This app serves a purpose that no one on the planet asked for.
 ## What we learned
