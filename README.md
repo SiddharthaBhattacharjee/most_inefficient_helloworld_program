@@ -13,4 +13,4 @@ How not to code.
 ## What's next for the useless and very inefficient Hello world program
 Maybe put the lists in the cloud so that it needs to access them from the cloud for each iteration.<br><br>
 
-This is a part of 100DaysOfCode and is built for MLH Local Hack Day-6 Challenge
+This is a part of [100DaysOfCode](https://github.com/SiddharthaBhattacharjee/100Days-of-Code) and is built for MLH Local Hack Day-6 Challenge
